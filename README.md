@@ -2,6 +2,8 @@
 
 The AI-powered Grading Assistant Application, StudyBuddy, aids teachers in grading written work. Teachers can apply curated rubrics or upload their own. 
 
+## Development Environment  
+This project was developed using **Google IDX** – a cloud-based IDE by Google.  
 
 ## Architecture
 
